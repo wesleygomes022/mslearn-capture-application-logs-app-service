@@ -2,7 +2,7 @@
 
 ```json
 {
-    "version": "1", // value must be 1
+    "version": "1", 
     "environments": [
         { "name": "<unique name>", ... },
         ...
